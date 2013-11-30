@@ -5,7 +5,7 @@
   "main": "./index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tuskan360/passport-photo.git"
+    "url": "https://github.com/ForbesLindesay/passport-photo"
   },
   "dependencies": {
     "request": "2.9.x"
